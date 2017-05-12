@@ -3,11 +3,9 @@ Sudoku is a very simple task. A square table with 9 rows and 9 columns is divide
 数独问题 输入9*9矩阵，0-9数字，0表示空格
 输出整个完整的数独结果
 input：
-103000509
-
-002109400
-
-000704000
+103000509 
+002109400 
+000704000 
 
 300502006
 
