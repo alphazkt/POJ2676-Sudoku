@@ -4,13 +4,21 @@ Sudoku is a very simple task. A square table with 9 rows and 9 columns is divide
 输出整个完整的数独结果
 input：
 103000509
+
 002109400
+
 000704000
+
 300502006
+
 060000050
+
 700803004
+
 000401000
+
 009205800
+
 804000107
 
 output:
